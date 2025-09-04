@@ -1,0 +1,12 @@
+### Criar uma nova tarefa
+POST http://localhost:8080/api/tarefas
+Content-Type: application/json
+
+{
+  "titulo": "Estudar IntelliJ",
+  "descricao": "Aprender a usar o HTTP Client",
+  "concluida": false
+}
+
+### Listar todas as tarefas
+GET http://localhost:8080/api/tarefas
