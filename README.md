@@ -62,7 +62,7 @@ Instruções para configurar e executar o projeto localmente.
 ### Back-end
 ```bash
 # 1. Clone este repositório
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone [https://github.com/RalfMota/gerenciador-de-tarefas-fullstack]
 
 # 2. Navegue até a pasta do back-end
 cd task-manager-api
